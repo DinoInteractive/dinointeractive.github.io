@@ -31,20 +31,4 @@ const projects = [
         itch: "https://dinointeractive.itch.io/attack-of-the-cubes-new",
         tags: ["Game", "2D", "TopDown"],
     },
-    {
-        title: "FroglightNotes",
-        description: "A cross-platform notes app",
-        image: "images/dino_logo.png",
-        github: "https://github.com/DinoInteractive/FroglightNotes",
-        itch: "https://dinointeractive.itch.io/froglightnotes",
-        tags: ["Software"],
-    },
-    {
-        title: "Fun File Explorer",
-        description: "A semi game-like file explorer",
-        image: "images/dino_logo.png",
-        github: "https://github.com/DinoInteractive/fun_file_explorer",
-        itch: "",
-        tags: ["W.I.P", "Software"],
-    }
 ]
