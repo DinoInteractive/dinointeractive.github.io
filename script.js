@@ -27,6 +27,7 @@ projects.forEach(project => {
                 : ""
             }
         </div>
+        <p></p>
     `;
 
     container.appendChild(card);
