@@ -56,7 +56,7 @@ a {
 }
 
 .vspacer {
-    width: 40%;
+    width: 30%;
     border-top: dashed 1px;
     border-bottom: 0px;
 }
@@ -76,11 +76,23 @@ a {
     margin-bottom: -20px;
 }
 
-.project-main a {
+.tagline {
+    font-style: italic;
+}
+
+.header-links {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: -15px
+}
+
+.dot-separater {
     padding-left: 4px;
     padding-right: 4px;
 }
 
-.tagline {
+.price-line {
     font-style: italic;
+    font-weight: 800;
 }
